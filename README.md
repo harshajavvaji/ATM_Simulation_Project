@@ -18,6 +18,9 @@ This is a ATM simulation project developed in Python that allows users to perfor
 
 **Requirements**
 - Python 3.x
-
+**Install Dependencies**
+- pip install -r requirements.txt
+**Run the ATM application**
+ - python main.py
 **Author**
 -Harsha Vardhan
