@@ -1,6 +1,6 @@
 # ATM_Simulation_Project
 
-This is a simple ATM simulation project developed in Python that allows users to perform various banking operations through a command-line interface. The project utilizes Python's asynchronous capabilities to handle multiple users concurrently and perform tasks like checking balance, withdrawing money, transferring money, and viewing mini statements.
+This is a ATM simulation project developed in Python that allows users to perform various banking operations through a command-line interface. The project utilizes Python's asynchronous capabilities to handle multiple users concurrently and perform tasks like checking balance, withdrawing money, transferring money, and viewing mini statements.
 
 # Features
 - Load cash into the ATM with different denominations (2000, 500, 100).
