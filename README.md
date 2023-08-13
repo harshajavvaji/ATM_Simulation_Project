@@ -16,11 +16,11 @@ This is a ATM simulation project developed in Python that allows users to perfor
 - Transactions are recorded in files with a timestamp for future reference.
 
 
-**Requirements**
+# Requirements
 - Python 3.x
-**Install Dependencies**
+# Install Dependencies
 - pip install -r requirements.txt
-**Run the ATM application**
+# Run the ATM application
  - python main.py
-**Author**
+# Author
 -Harsha Vardhan
