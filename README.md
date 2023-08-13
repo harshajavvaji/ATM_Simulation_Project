@@ -23,4 +23,4 @@ This is a ATM simulation project developed in Python that allows users to perfor
 # Run the ATM application
  - python main.py
 # Author
--Harsha Vardhan
+- Harsha Vardhan
